@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711702299029,
+      "tag": "0000_faulty_slapstick",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711787277573,
+      "tag": "0001_legal_wallop",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711807894666,
+      "tag": "0002_fast_lizard",
+      "breakpoints": true
+    }
+  ]
+}
