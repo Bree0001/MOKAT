@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { Scrypt } from "lucia";
 import { eq } from "drizzle-orm";
 import { db } from "@/db/drizzle";
